@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @protechnopolis
 
-## My apps and skills:
+## Apps and skills:
 ![skills](https://skillicons.dev/icons?i=raspberrypi,cloudflare,discord,discordjs,js,css,github,replit,linux,nodejs,vscode,nginx,windows,npm,debian,docker,html,kali,postman,workers&theme=dark&perline=5)
 
 
